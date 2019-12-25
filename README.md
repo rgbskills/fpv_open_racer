@@ -10,3 +10,6 @@ Open source design for racing quad, you can modify and cut at will.
 * **Top plate** features a **28.5x50mm** hole patter to add Gopro mounts or any other 3d Printed add-on.
 * **Base plate** has a cut out at the back to keep the battery cable from sliding left and right to prevent damage
 * Both **20x20** and **30.5x30.5** Stack mounting options
+
+# Lates Render
+[Open Source - FPV racing frame](https://github.com/rgbskills/fpv_open_racer/blob/master/render.png)
