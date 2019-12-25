@@ -1,5 +1,6 @@
 # FPV OPEN RACER
 Open source design for racing quad, you can modify and cut at will.
+Fusion 360 sharable link: https://a360.co/2EPTR4b
 
 # Features
 * Lots of space
