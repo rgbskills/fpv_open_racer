@@ -12,4 +12,4 @@ Open source design for racing quad, you can modify and cut at will.
 * Both **20x20** and **30.5x30.5** Stack mounting options
 
 # Lates Render
-[Open Source - FPV racing frame](https://github.com/rgbskills/fpv_open_racer/blob/master/render.png)
+![Open Source - FPV racing frame](https://github.com/rgbskills/fpv_open_racer/blob/master/render.png)
