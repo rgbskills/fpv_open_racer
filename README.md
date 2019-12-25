@@ -5,6 +5,8 @@
 
 # Features
 * Lots of space
+* Compatible with 5.1" Props
+* stretched X - 180x140mm
 * Strategically placed ventilation holes on **BASE plate** and **TOP plate**
 * **BOTTOM plate** has no cut outs for better heat dissipation (this will also prevent the battery heat to radiate towards the stack)
 * 4mm thick and 10mm wide arms (this is recommended)
