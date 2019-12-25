@@ -20,7 +20,7 @@
 * 8x 6mm M3 screws (standofs)
 
 # Builds
-(Comming soon..)
+(Comming soon...)
 
 # Lates Render
 ![Open Source - FPV racing frame](https://github.com/rgbskills/fpv_open_racer/blob/master/render.png)
