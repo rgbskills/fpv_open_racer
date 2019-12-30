@@ -14,6 +14,7 @@
 * **Top plate** features a **28.5x50mm** hole patter to add Gopro mounts or any other 3d Printed add-on.
 * **Base plate** has a cut out at the back to keep the battery cable from sliding left and right to prevent damage
 * Both **20x20** and **30.5x30.5** Stack mounting options
+* All screws are accessible even after complete build
 * **Easy stack access** - large 6mm holes on the bottom plate allows you to insert/remove screws that hold your stack without any hassle 
 
 # Requirements
