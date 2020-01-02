@@ -12,6 +12,7 @@
 * **All screws are accessible** even after complete build
 * **Easy stack access** - large 6mm holes on the bottom plate allows you to insert/remove screws that hold your stack without any hassle
 * **28.5x50mm** hole pattern on the top plate to add Gopro mounts or any other 3d Printed add-ons
+* **CNC Millable with 3mm bit**
 
 # Carbon parts
 * **BASE plate - 2mm**
