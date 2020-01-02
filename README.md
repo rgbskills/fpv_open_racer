@@ -26,6 +26,9 @@
 * 8x M3 nylon insert nuts (arms) [Banggood](https://www.banggood.com/Suleve-CS1-50pcs-Carbon-Steel-Self-Locking-Hex-Nut-Nylon-Insert-Lock-Nut-M2M2_5M3M4M5M6M8M10M12-p-1499543.html?rmmds=search&ID=514519)
 * 8x 6mm M3 screws (standoffs) [Banggood](https://www.banggood.com/Suleve-M5CH8-50Pcs-M5-10_9-Grade-Carbon-Steel-Hex-Socket-Cap-Head-Screw-6-40mm-Optional-Length-p-1516497.html?ID=528721)
 
+# 3D printable parts
+* [Camera mount (micro)](https://www.thingiverse.com/thing:4080423)
+
 # Builds
 (Coming soon...)
 
