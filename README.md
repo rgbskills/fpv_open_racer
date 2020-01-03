@@ -1,6 +1,7 @@
 # FPV OPEN RACER
 - Open source design for racing quad. You can download and modify the designs to your liking.
 - **DXF** files are also available in `dxf/` - these are the files you send if you want to get them cut out of carbon (list of services are coming soon).
+- [Join our slack channel](https://join.slack.com/t/openfpvworkspace/shared_invite/enQtODgyMDY0MTgyNDAxLTNkYTExNzY0YzkxYjYwZTdiMzQ1MzkwNzc3OTJhODZiMTdiMTg1ZTQwYjM1NjA1ODZkYjUzNWY0YTA1NTUwZmE)
 - **[3D Preview](https://a360.co/2Fc0HBd)**
 
 # Features
