@@ -30,6 +30,7 @@
 
 # 3D printable parts
 * [Camera mount (micro)](https://www.thingiverse.com/thing:4080423)
+- [XT60 mount](https://www.thingiverse.com/thing:4082915)
 
 # Builds
 (Coming soon...)
