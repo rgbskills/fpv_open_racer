@@ -3,6 +3,7 @@
 - **DXF** files are also available in `dxf/` - these are the files you send if you want to get them cut out of carbon (list of services are coming soon).
 - **[Join our slack channel](https://join.slack.com/t/openfpvworkspace/shared_invite/enQtODgyMDY0MTgyNDAxLTNkYTExNzY0YzkxYjYwZTdiMzQ1MzkwNzc3OTJhODZiMTdiMTg1ZTQwYjM1NjA1ODZkYjUzNWY0YTA1NTUwZmE)**
 - **[3D Preview](https://a360.co/2Fc0HBd)**
+- [Facebook page](https://www.facebook.com/openfpvcommunity)
 
 # Features
 * **Lots of space**, the idea is to have no zip ties and nothing attached to the top plate for easy servicing
