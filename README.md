@@ -6,9 +6,9 @@
 - **[Facebook page](https://www.facebook.com/openfpvcommunity)**
 
 # Features
+* **stretched X** - X=140 Y=180mm **wheelbase: 228mm** (more control on the roll axis)
 * **Lots of space**, the idea is to have no zip ties and nothing attached to the top plate for easy servicing
-* Compatible with **5.1"** Props
-* **stretched X** - 180x140mm (more control on the roll axis)
+* **Compatible with 5.1"** Props
 * **Arms can be easily swapped** without unscrewing the stack
 * Both **20x20** and **30.5x30.5** Stack mounting options are supported
 * **All screws are accessible** even after complete build
