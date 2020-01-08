@@ -1,4 +1,4 @@
-# FPV OPEN RACER
+# Introduction
 - Open source design for racing quad. You can download and modify the designs to your liking.
 - **DXF** files are also available in `dxf/` - these are the files you send if you want to get them cut out of carbon (list of services are coming soon).
 - **[Join our slack channel](https://join.slack.com/t/openfpvworkspace/shared_invite/enQtODgyMDY0MTgyNDAxLTNkYTExNzY0YzkxYjYwZTdiMzQ1MzkwNzc3OTJhODZiMTdiMTg1ZTQwYjM1NjA1ODZkYjUzNWY0YTA1NTUwZmE)**
@@ -16,6 +16,13 @@
 * **28.5x45mm** hole pattern on the top plate to add Gopro mounts or any other 3d Printed add-ons
 * **CNC Millable with 3mm bit**
 
+# Recommendations
+* Use a three level stack: ESC, FC, and the last level should contain your VTX and RX
+* If you use a buzzer get a small 9*5.5mm one
+* UFL or MMCX VTX antenna
+* there are no zip tie slots for a reason
+* Nothing should be mounted on the top plate unless its a stand alone component like an HD camera.
+
 # Carbon parts
 * **BASE plate - 2mm**
 * **BOTTOM plate - 2mm** 
@@ -28,7 +35,8 @@
 * 8x M3 nylon insert nuts (arms) [Banggood](https://www.banggood.com/Suleve-CS1-50pcs-Carbon-Steel-Self-Locking-Hex-Nut-Nylon-Insert-Lock-Nut-M2M2_5M3M4M5M6M8M10M12-p-1499543.html?rmmds=search&ID=514519)
 * 8x 6mm M3 screws (standoffs) [Banggood](https://www.banggood.com/Suleve-M5CH8-50Pcs-M5-10_9-Grade-Carbon-Steel-Hex-Socket-Cap-Head-Screw-6-40mm-Optional-Length-p-1516497.html?ID=528721)
 
-# 3D printable parts (You can find all 3d printables under `accessories/3D/`)
+# 3D printable parts 
+### (You can find all 3d printables under `accessories/3D/`)
 * [Camera mount (micro)](https://www.thingiverse.com/thing:4080423)
 - [XT60 mount](https://www.thingiverse.com/thing:4082915)
 
