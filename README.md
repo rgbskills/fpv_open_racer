@@ -31,7 +31,7 @@
 
 # Bill of materials
 
-* 4x 25mm Aluminium, standoffs [Banggood](https://www.banggood.com/Suleve-M3AS5-10Pcs-M3-25mm-Knurled-Standoff-Aluminum-Alloy-Anodized-Spacer-p-1118407.html?)
+* 4x 25mm Aluminium, standoffs [Banggood](https://www.banggood.com/Suleve-M3AS5-10Pcs-M3-25mm-Knurled-Standoff-Aluminum-Alloy-Anodized-Spacer-p-1118407.html?ID=223&cur_warehouse=CN)
 
 * 8x 12mm M3 screws (arms) [Banggood](https://www.banggood.com/Suleve-M3CH10-50Pcs-M3-Carbon-Steel-Hex-Socket-Button-Round-Head-Cap-Screws-Bolts-4-20mm-Optional-Length-p-1232490.html?rmmds=search&ID=513288&cur_warehouse=CN)
 
