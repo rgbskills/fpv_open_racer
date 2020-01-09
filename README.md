@@ -25,7 +25,7 @@
 
 # Carbon parts
 * **BASE plate - 2mm**
-* **BOTTOM plate - 2mm** 
+* **BOTTOM plate - 2mm**
 * **TOP plate - 2mm**
 * **ARM - 4mm**
 
@@ -34,8 +34,10 @@
 * 8x 12mm M3 screws (arms) [Banggood](https://www.banggood.com/Suleve-M5CH8-50Pcs-M5-10_9-Grade-Carbon-Steel-Hex-Socket-Cap-Head-Screw-6-40mm-Optional-Length-p-1516497.html?ID=513288)
 * 8x M3 nylon insert nuts (arms) [Banggood](https://www.banggood.com/Suleve-CS1-50pcs-Carbon-Steel-Self-Locking-Hex-Nut-Nylon-Insert-Lock-Nut-M2M2_5M3M4M5M6M8M10M12-p-1499543.html?rmmds=search&ID=514519)
 * 8x 6mm M3 screws (standoffs) [Banggood](https://www.banggood.com/Suleve-M5CH8-50Pcs-M5-10_9-Grade-Carbon-Steel-Hex-Socket-Cap-Head-Screw-6-40mm-Optional-Length-p-1516497.html?ID=528721)
+* 1x Buzzer [Banggood](https://www.banggood.com/5-PCS-Super-Loud-5V-Active-Alarm-Buzzer-Beeper-Tracker-95_5mm-for-Racing-Drone-p-1117207.html)
+* 1x XT60 [Banggood](https://www.banggood.com/Amass-XT60-MaleFemale-Bullet-Connector-Plugs-For-RC-Lipo-Battery-p-929670.html)
 
-# 3D printable parts 
+# 3D printable parts
 ### (You can find all 3d printables under `accessories/3D/`)
 * [Camera mount (micro)](https://www.thingiverse.com/thing:4080423)
 - [XT60 mount](https://www.thingiverse.com/thing:4082915)
