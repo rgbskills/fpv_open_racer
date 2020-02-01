@@ -24,6 +24,9 @@
 * there are no zip tie slots for a reason
 * Nothing should be mounted on the top plate unless its a stand alone component like an HD camera.
 
+# Explanations
+* The slots next to the stacks are for the motor wires and LED, they arr separated to prevent slipping that may cut the wire. 
+
 # Carbon parts
 * **BASE plate - 2mm**
 * **BOTTOM plate - 2mm**
