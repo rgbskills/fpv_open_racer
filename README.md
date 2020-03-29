@@ -31,7 +31,7 @@
 
 # Bill of materials
 * 4x 25mm Aluminium, standoffs [Banggood](https://www.banggood.com/Suleve-M3AS5-10Pcs-M3-25mm-Knurled-Standoff-Aluminum-Alloy-Anodized-Spacer-p-1118407.html?ID=223&cur_warehouse=CN)
-* 8x 12mm M3 screws (arms) [Banggood](https://www.banggood.com/Suleve-M3CH10-50Pcs-M3-Carbon-Steel-Hex-Socket-Button-Round-Head-Cap-Screws-Bolts-4-20mm-Optional-Length-p-1232490.html?rmmds=search&ID=513288&cur_warehouse=CN)
+* 8x 13-14mm M3 screws (arms) [Banggood](https://www.banggood.com/Suleve-M3CH10-50Pcs-M3-Carbon-Steel-Hex-Socket-Button-Round-Head-Cap-Screws-Bolts-4-20mm-Optional-Length-p-1232490.html?rmmds=search&ID=513288&cur_warehouse=CN)
 * 8x 6mm M3 screws (standoffs) [Banggood](https://www.banggood.com/Suleve-M3CH10-50Pcs-M3-Carbon-Steel-Hex-Socket-Button-Round-Head-Cap-Screws-Bolts-4-20mm-Optional-Length-p-1232490.html?rmmds=search&ID=528721&cur_warehouse=CN)
 * 8x M3 nylon insert nuts (arms) [Banggood](https://www.banggood.com/Suleve-CS1-50pcs-Carbon-Steel-Self-Locking-Hex-Nut-Nylon-Insert-Lock-Nut-M2M2_5M3M4M5M6M8M10M12-p-1499543.html?rmmds=cart_middle_products&ID=514519&cur_warehouse=CN)
 * 1x Buzzer [Banggood](https://www.banggood.com/5-PCS-Super-Loud-5V-Active-Alarm-Buzzer-Beeper-Tracker-95_5mm-for-Racing-Drone-p-1117207.html)
@@ -43,7 +43,7 @@
 - [XT60 mount](https://www.thingiverse.com/thing:4082915)
 
 # Builds
-(Coming soon...)
+![Open Source - FPV racing frame](https://github.com/rgbskills/fpv_open_racer/blob/master/png/build.png)
 
 # Latest Render
 ![Open Source - FPV racing frame](https://github.com/rgbskills/fpv_open_racer/blob/master/png/render.png)
