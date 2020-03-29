@@ -9,6 +9,7 @@
 * **stretched X** - X=140 Y=180mm **wheelbase: 228mm** (more control on the roll axis)
 * **Lots of space**, the idea is to have no zip ties and nothing attached to the top plate for easy servicing
 * **Compatible with 5.1"** Props
+* **Weight: 80g**
 * **Arms can be easily swapped** without unscrewing the stack
 * Both **20x20** and **30.5x30.5** Stack mounting options are supported
 * **All screws are accessible** even after complete build
@@ -22,6 +23,9 @@
 * UFL or MMCX VTX antenna
 * there are no zip tie slots for a reason
 * Nothing should be mounted on the top plate unless its a stand alone component like an HD camera.
+
+# Explanations
+* The slots next to the stacks are for the motor wires and LED, they arr separated to prevent slipping that may cut the wire. 
 
 # Carbon parts
 * **BASE plate - 2mm**
